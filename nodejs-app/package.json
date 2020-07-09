@@ -6,6 +6,11 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
+<<<<<<< HEAD
     "express": " "html-errors": "latest"
+=======
+    "express": "4.x",
+    "html-errors": "latest"
+>>>>>>> 1016d009a385ec4118f635b6197be9dd5b9bdfdc
   }
 }
